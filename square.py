@@ -1,0 +1,11 @@
+import turtle
+a=turtle.Turtle()
+a.color('black','yellow')
+a.begin_fill()
+a.forward(300)
+a.left(135)
+a.forward(424.264)
+a.left(135)
+a.forward(300)
+a.end_fill()
+turtle.done()
